@@ -410,11 +410,11 @@
             <div class="logo">
                 <img src="assets/images/logo-min.avif" class="img" alt="logo"><br />
                 <i class="fas fa-envelope"></i>
-                <p>smriti@gmail.com</p><br />
+                <p>prajitabaniya01@gmail.com</p><br />
                 <i class="fas fa-phone"></i>
                 <p>+977 9876543210</p><br />
                 <i class="fab fa-facebook-messenger"></i>
-                <p>@smriti</p><br />
+                <p>@prajita</p><br />
             </div>
             <div class="support">
                 <h2>Support</h2>
@@ -444,8 +444,8 @@
             </div>
             <div class="credit">
                 <hr /><br />
-                <h2>Smriti Coffee Shop © 2023 | All Rights Reserved.</h2>
-                <h2>Designed by <span>Smriti Adhikari</span></h2>
+                <h2>Prajita Coffee Shop © 2023 | All Rights Reserved.</h2>
+                <h2>Designed by <span>Prajita Bahadur Baniya</span></h2>
             </div>
         </div>
     </section>
